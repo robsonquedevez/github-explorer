@@ -8,6 +8,4 @@
 - Webpapck
 - Babel
 - Sass
-
-
-_under development..._
+- Typescript
